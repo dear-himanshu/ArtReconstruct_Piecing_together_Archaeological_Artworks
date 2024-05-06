@@ -16,7 +16,7 @@ An Innovative Machine Learning solution based on Hyperspectral Imaging techiniqu
 ### RoI CNN Model
  ![RoI CNN Model](fig3.png)
 ### Final Reconstruction sample
- ![Final Reconstruction sample]()
+ ![Final Reconstruction sample](https://github.com/dear-himanshu/ArtReconstruct_Piecing_together_Archaeological_Artworks/blob/main/Examples/MIT_ex/reassembled_result_0.png)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
