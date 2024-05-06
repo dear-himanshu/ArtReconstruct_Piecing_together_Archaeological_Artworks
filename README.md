@@ -16,7 +16,7 @@ An Innovative Machine Learning solution based on Hyperspectral Imaging techiniqu
 ### RoI CNN Model
  ![RoI CNN Model](fig3.png)
 ### Final Reconstruction sample
- ![Final Reconstruction sample](recombine.png)
+ ![Final Reconstruction sample]()
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
